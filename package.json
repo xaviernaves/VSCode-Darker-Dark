@@ -1,0 +1,38 @@
+{
+    "name": "darker-dark",
+    "displayName": "Darker Dark+",
+    "description": "A darker version of Dark+",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "publisher": "XavierNaves",
+    "author": {
+        "name": "Xavier Naves"
+    },
+    "repository": {
+        "url": "https://github.com/xaviernaves/VSCode-Darker-Dark"
+    },
+    "license": "MIT",
+    "keywords": [
+        "vscode darker dark+",
+        "darker dark+",
+        "darker dark",
+        "dark+",
+        "dark",
+        "dark theme"
+    ],
+    "icon": "icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darker Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darker Dark+-color-theme.json"
+            }
+        ]
+    }
+}
