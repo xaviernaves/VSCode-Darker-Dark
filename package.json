@@ -2,9 +2,9 @@
     "name": "darker-dark",
     "displayName": "Darker Dark+",
     "description": "A darker version of Dark+",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^0.10.5"
     },
     "publisher": "XavierNaves",
     "author": {

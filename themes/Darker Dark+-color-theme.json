@@ -23,7 +23,7 @@
 		"list.activeSelectionForeground": "#368dff",
 		"list.dropBackground": "#383b3d",
 		"list.inactiveSelectionBackground": "#131313",
-		"list.inactiveSelectionForeground": "#2081ff",
+		"list.inactiveSelectionForeground": "#4b99ff",
 		"menu.background": "#252526",
 		"menu.foreground": "#cccccc",
 		"sideBar.background": "#1d1d1d",
@@ -516,7 +516,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6A9955"
+				"foreground": "#5d7e4c"
 			}
 		},
 		{
